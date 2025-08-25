@@ -41,17 +41,6 @@ with the goal of utilizing these technologies to create a safer and more conveni
 
 ---
 
-## 📊 Solved.ac
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswns0429)](https://solved.ac/gkswns0429)
-
----
-
-## 🤔 GitHub Stats
-![HanJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJun-g0id&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanJun-g0id&layout=compact&theme=tokyonight)
-
----
-
 <div align="center">
 
 ✨ _Thanks for visiting my profile!_ ✨  
