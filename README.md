@@ -7,10 +7,10 @@
 
 ---
 
-## 👀 About Me
-- 🙋‍♂️ I am a Korean university student who dreams of becoming a developer  
-- 🔥 My goal is to commit one code every day  
-- 🎓 Bachelor of Software, **Sangmyung University (SMU)**  
+## 👋 Introduction
+Hello, I am **Ban Siyoung**.  
+I am passionate about **Artificial Intelligence (AI), Autonomous Driving, and Computer Vision**,  
+with the goal of utilizing these technologies to create a safer and more convenient world.
 
 ---
 
