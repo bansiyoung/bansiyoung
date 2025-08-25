@@ -3,8 +3,6 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=006400,32CD32,7CFC00,ADFF2F&height=280&section=header&text=SIYOUNG%27S%20GITHUB&fontSize=50&fontAlignY=40)
 
-
-
 </div>
 
 ---
