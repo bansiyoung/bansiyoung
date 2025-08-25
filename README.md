@@ -9,7 +9,7 @@
 
 ## 👋 Introduction
 Hello, I am **Ban Siyoung**.  
-I am passionate about **Artificial Intelligence (AI), Autonomous Driving, and Computer Vision**,  
+I am passionate about **Intelligent Autonomous Systems**,  
 with the goal of utilizing these technologies to create a safer and more convenient world.
 
 ---
