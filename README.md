@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=WELCOME%20🐳&fontSize=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=SIYOUNG'S%20GITHUB%20🐳&fontSize=50&fontAlignY=40)
 
 </div>
 
